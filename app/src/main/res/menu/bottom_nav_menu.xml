@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon= "@android:drawable/ic_menu_today"
+        android:title="Inicio" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Anadir" />
+<!--
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_perfil"
+        android:title="Perfil" />
+
+-->
+    <item
+        android:id="@+id/mostrado"
+        android:icon="@drawable/botiquin"
+        android:title="mostrado" />
+
+    <item
+        android:id="@+id/mapaFragment"
+        android:icon="@drawable/mapa"
+        android:title="Mapa" />
+
+</menu>

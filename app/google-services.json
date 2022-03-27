@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183239848280",
+    "project_id": "pastillapp-36e2a",
+    "storage_bucket": "pastillapp-36e2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183239848280:android:27817172f387c71f7ef52d",
+        "android_client_info": {
+          "package_name": "com.example.pastillas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183239848280-tah3tfkbh9phbje29ralbmsc9941r1kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj6F39ZJn9nnHdhm_HMETtdow1ySmPtvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183239848280-tah3tfkbh9phbje29ralbmsc9941r1kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
